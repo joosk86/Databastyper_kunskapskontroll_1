@@ -1,0 +1,52 @@
+[
+  {
+    "Actor1": "Leonard Nimoy",
+    "Actor2": "Nichelle Nichols",
+    "Shared": 6
+  },
+  {
+    "Actor1": "Steve Buscemi",
+    "Actor2": "Adam Sandler",
+    "Shared": 6
+  },
+  {
+    "Actor1": "Leonard Nimoy",
+    "Actor2": "Walter Koenig",
+    "Shared": 4
+  },
+  {
+    "Actor1": "Jonathan Frakes",
+    "Actor2": "LeVar Burton",
+    "Shared": 4
+  },
+  {
+    "Actor1": "Johnny Depp",
+    "Actor2": "Jack Davenport",
+    "Shared": 4
+  },
+  {
+    "Actor1": "Daniel Radcliffe",
+    "Actor2": "Rupert Grint",
+    "Shared": 4
+  },
+  {
+    "Actor1": "Jennifer Lawrence",
+    "Actor2": "Josh Hutcherson",
+    "Shared": 4
+  },
+  {
+    "Actor1": "Jon Lovitz",
+    "Actor2": "Adam Sandler",
+    "Shared": 4
+  },
+  {
+    "Actor1": "Robert Downey Jr.",
+    "Actor2": "Scarlett Johansson",
+    "Shared": 4
+  },
+  {
+    "Actor1": "Nichelle Nichols",
+    "Actor2": "Walter Koenig",
+    "Shared": 4
+  }
+]
